@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: e88e3a006204f804298389c6ec446c6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7901938466575120518
+    second: BLUE SpaceMarine RUN 0
+  - first:
+      213: -2297088571487133564
+    second: BLUE SpaceMarine RUN 1
+  - first:
+      213: -4836589923838699961
+    second: BLUE SpaceMarine RUN 2
+  - first:
+      213: -278482696631913043
+    second: BLUE SpaceMarine RUN 3
+  - first:
+      213: 8597043769050302745
+    second: BLUE SpaceMarine RUN 4
+  - first:
+      213: -815995992101173666
+    second: BLUE SpaceMarine RUN 5
+  - first:
+      213: 6298679364420984282
+    second: BLUE SpaceMarine RUN 6
+  - first:
+      213: 5303528315975530789
+    second: BLUE SpaceMarine RUN 7
+  - first:
+      213: 8568137644671557299
+    second: BLUE SpaceMarine RUN 8
+  - first:
+      213: -5460079320510494584
+    second: BLUE SpaceMarine RUN 9
+  - first:
+      213: -6519749546516233242
+    second: BLUE SpaceMarine RUN 10
+  - first:
+      213: -2809496291810922893
+    second: BLUE SpaceMarine RUN 11
+  - first:
+      213: 8461297725084236049
+    second: BLUE SpaceMarine RUN 12
+  - first:
+      213: -1036134571627190733
+    second: BLUE SpaceMarine RUN 13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 280
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 280
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 280
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RUN 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a778bc6b4dca65290800000000000000
+      internalID: -7901938466575120518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RUN 1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 210
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48066ee5d1a1f10e0800000000000000
+      internalID: -2297088571487133564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RUN 2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 210
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7465c51f61bf0ecb0800000000000000
+      internalID: -4836589923838699961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RUN 3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 210
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5792f7671a22cf0800000000000000
+      internalID: -278482696631913043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RUN 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9198ab442c5de4770800000000000000
+      internalID: 8597043769050302745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RUN 5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 140
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56caa0f7fffca4f0800000000000000
+      internalID: -815995992101173666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RUN 6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 140
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add55669287696750800000000000000
+      internalID: 6298679364420984282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RUN 7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 140
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52972f177eae99940800000000000000
+      internalID: 5303528315975530789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RUN 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bedc49bac328e670800000000000000
+      internalID: 8568137644671557299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RUN 9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 70
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888048769c6e934b0800000000000000
+      internalID: -5460079320510494584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RUN 10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 70
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3c26f94523585a0800000000000000
+      internalID: -6519749546516233242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RUN 11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 70
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e25d8020aa209d0800000000000000
+      internalID: -2809496291810922893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RUN 12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119777a73719c6570800000000000000
+      internalID: 8461297725084236049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RUN 13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336e8a6c819ee91f0800000000000000
+      internalID: -1036134571627190733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BLUE SpaceMarine RUN 0: -7901938466575120518
+      BLUE SpaceMarine RUN 1: -2297088571487133564
+      BLUE SpaceMarine RUN 10: -6519749546516233242
+      BLUE SpaceMarine RUN 11: -2809496291810922893
+      BLUE SpaceMarine RUN 12: 8461297725084236049
+      BLUE SpaceMarine RUN 13: -1036134571627190733
+      BLUE SpaceMarine RUN 2: -4836589923838699961
+      BLUE SpaceMarine RUN 3: -278482696631913043
+      BLUE SpaceMarine RUN 4: 8597043769050302745
+      BLUE SpaceMarine RUN 5: -815995992101173666
+      BLUE SpaceMarine RUN 6: 6298679364420984282
+      BLUE SpaceMarine RUN 7: 5303528315975530789
+      BLUE SpaceMarine RUN 8: 8568137644671557299
+      BLUE SpaceMarine RUN 9: -5460079320510494584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

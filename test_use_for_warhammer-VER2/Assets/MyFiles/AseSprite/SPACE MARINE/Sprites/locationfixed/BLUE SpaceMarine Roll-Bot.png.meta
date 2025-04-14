@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 36c564ec2f98ae249b6d721daf3c36f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1153225299271001543
+    second: BLUE SpaceMarine Roll-Bot 0
+  - first:
+      213: 77018505569804203
+    second: BLUE SpaceMarine Roll-Bot 1
+  - first:
+      213: -8955578249325559845
+    second: BLUE SpaceMarine Roll-Bot 2
+  - first:
+      213: -2693830183075818039
+    second: BLUE SpaceMarine Roll-Bot 3
+  - first:
+      213: -4640753661246089064
+    second: BLUE SpaceMarine Roll-Bot 4
+  - first:
+      213: 7199528220375432644
+    second: BLUE SpaceMarine Roll-Bot 5
+  - first:
+      213: 5544943704400568924
+    second: BLUE SpaceMarine Roll-Bot 6
+  - first:
+      213: -338247655143248604
+    second: BLUE SpaceMarine Roll-Bot 7
+  - first:
+      213: -5938986492763463072
+    second: BLUE SpaceMarine Roll-Bot 8
+  - first:
+      213: -1343623669829863751
+    second: BLUE SpaceMarine Roll-Bot 9
+  - first:
+      213: -1142378178190632025
+    second: BLUE SpaceMarine Roll-Bot 10
+  - first:
+      213: -243100631122810792
+    second: BLUE SpaceMarine Roll-Bot 11
+  - first:
+      213: 4233967236828082931
+    second: BLUE SpaceMarine Roll-Bot 12
+  - first:
+      213: 6125713083815310540
+    second: BLUE SpaceMarine Roll-Bot 13
+  - first:
+      213: -3733066824333896693
+    second: BLUE SpaceMarine Roll-Bot 14
+  - first:
+      213: 1537050906922466580
+    second: BLUE SpaceMarine Roll-Bot 15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 280
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 280
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 280
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 280
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5aa05bc44110010800000000000000
+      internalID: 1153225299271001543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 207
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf9e993cef911100800000000000000
+      internalID: 77018505569804203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 207
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf3cbae70567b380800000000000000
+      internalID: -8955578249325559845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 207
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c55a8498b79d9ad0800000000000000
+      internalID: -2693830183075818039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8985553022bb89fb0800000000000000
+      internalID: -4640753661246089064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 138
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdb0ed85ccd9e360800000000000000
+      internalID: 7199528220375432644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 138
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52a558bbe893fc40800000000000000
+      internalID: 5544943704400568924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 138
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42de31dbc8d4e4bf0800000000000000
+      internalID: -338247655143248604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062adfc304b749da0800000000000000
+      internalID: -5938986492763463072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 69
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6fbff146d7a5de0800000000000000
+      internalID: -1343623669829863751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 69
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab1ac979157520f0800000000000000
+      internalID: -1142378178190632025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 69
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8586045934550acf0800000000000000
+      internalID: -243100631122810792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2b7c5f4c212ca30800000000000000
+      internalID: 4233967236828082931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc436c42897e20550800000000000000
+      internalID: 6125713083815310540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0458cc708b713cc0800000000000000
+      internalID: -3733066824333896693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Bot 15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d3eccf7a3b45510800000000000000
+      internalID: 1537050906922466580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BLUE SpaceMarine Roll-Bot 0: 1153225299271001543
+      BLUE SpaceMarine Roll-Bot 1: 77018505569804203
+      BLUE SpaceMarine Roll-Bot 10: -1142378178190632025
+      BLUE SpaceMarine Roll-Bot 11: -243100631122810792
+      BLUE SpaceMarine Roll-Bot 12: 4233967236828082931
+      BLUE SpaceMarine Roll-Bot 13: 6125713083815310540
+      BLUE SpaceMarine Roll-Bot 14: -3733066824333896693
+      BLUE SpaceMarine Roll-Bot 15: 1537050906922466580
+      BLUE SpaceMarine Roll-Bot 2: -8955578249325559845
+      BLUE SpaceMarine Roll-Bot 3: -2693830183075818039
+      BLUE SpaceMarine Roll-Bot 4: -4640753661246089064
+      BLUE SpaceMarine Roll-Bot 5: 7199528220375432644
+      BLUE SpaceMarine Roll-Bot 6: 5544943704400568924
+      BLUE SpaceMarine Roll-Bot 7: -338247655143248604
+      BLUE SpaceMarine Roll-Bot 8: -5938986492763463072
+      BLUE SpaceMarine Roll-Bot 9: -1343623669829863751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

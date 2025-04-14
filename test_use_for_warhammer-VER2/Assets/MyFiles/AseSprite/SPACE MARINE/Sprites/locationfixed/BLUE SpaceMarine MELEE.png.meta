@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 6e09a06ce027a7a4c88a345d725034ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -464900506594357520
+    second: BLUE SpaceMarine MELEE 0
+  - first:
+      213: 7890463334275010972
+    second: BLUE SpaceMarine MELEE 1
+  - first:
+      213: -403765644837337309
+    second: BLUE SpaceMarine MELEE 2
+  - first:
+      213: 3494121963788747277
+    second: BLUE SpaceMarine MELEE 3
+  - first:
+      213: -4341023695507805958
+    second: BLUE SpaceMarine MELEE 4
+  - first:
+      213: 709492768431219162
+    second: BLUE SpaceMarine MELEE 5
+  - first:
+      213: -6740702297608260955
+    second: BLUE SpaceMarine MELEE 6
+  - first:
+      213: -5898399530123861896
+    second: BLUE SpaceMarine MELEE 7
+  - first:
+      213: 832889475122602069
+    second: BLUE SpaceMarine MELEE 8
+  - first:
+      213: 6327166394107095012
+    second: BLUE SpaceMarine MELEE 9
+  - first:
+      213: -704881036471728164
+    second: BLUE SpaceMarine MELEE 10
+  - first:
+      213: -4247088641324746068
+    second: BLUE SpaceMarine MELEE 11
+  - first:
+      213: -5234881416172489193
+    second: BLUE SpaceMarine MELEE 12
+  - first:
+      213: -917845857255736464
+    second: BLUE SpaceMarine MELEE 13
+  - first:
+      213: 8990949169364984796
+    second: BLUE SpaceMarine MELEE 14
+  - first:
+      213: -1115834889466332471
+    second: BLUE SpaceMarine MELEE 15
+  - first:
+      213: 3286376848869571563
+    second: BLUE SpaceMarine MELEE 16
+  - first:
+      213: -6465616922341703872
+    second: BLUE SpaceMarine MELEE 17
+  - first:
+      213: -6784788560979597437
+    second: BLUE SpaceMarine MELEE 18
+  - first:
+      213: 4880255440153878144
+    second: BLUE SpaceMarine MELEE 19
+  - first:
+      213: 4480766435031149601
+    second: BLUE SpaceMarine MELEE 20
+  - first:
+      213: 1016811906890251681
+    second: BLUE SpaceMarine MELEE 21
+  - first:
+      213: 8505815568266020408
+    second: BLUE SpaceMarine MELEE 22
+  - first:
+      213: 3698018981356751349
+    second: BLUE SpaceMarine MELEE 23
+  - first:
+      213: 810108447313014788
+    second: BLUE SpaceMarine MELEE 24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 395
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 395
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 395
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 395
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540f05f3f257100439eda02feba0759d
+      internalID: 510874175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 280
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688120a9831866342bf2bc7990ffe402
+      internalID: -1966166187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 280
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbd5949449009b47bdafc0a9d360588
+      internalID: 501846737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 280
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f746b77a9e03169449fa0c688e8676f5
+      internalID: -1276776730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 280
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b716abcd5655779469fd49a500e382ec
+      internalID: -1351697996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5a440fa0fac214192fe2cd1a31e990
+      internalID: 638025752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 210
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729ae7621587c9a478e1ecdbbc7ab61b
+      internalID: -963674070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 210
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1956d3e153b013c47b37a16afc77d4ec
+      internalID: 486302012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 210
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2b8b311fd6626419748b92d641f973
+      internalID: -726118109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 210
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea912aaeb67532d45abde563bf6f22f8
+      internalID: 1234422391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b8f85d83728bd49b581083dc801971
+      internalID: -7656671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 140
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1257108d49b082746bfc0d424ecd5f86
+      internalID: -1522095533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 140
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537f119c626382c4c8666ff3b7b1ba3f
+      internalID: 204159744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 140
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f013ffd61e6111849a75e6a5d9e2cef8
+      internalID: 291967850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 140
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6a2c1b58936004d84bd5ec43c082ab
+      internalID: -815335026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ca10ef5347dba47a737bfbbf6da024
+      internalID: -1045546080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 70
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbc1aa8dcdeba043ab6667789e20126
+      internalID: -1450796502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 70
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaa7dcf9a0fcca4a884d30c183197d0
+      internalID: -1118756556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_18
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 70
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aa68536e0082f499b4b630e01600b6
+      internalID: -327526842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 70
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24901db93c625a3498465d42ebc7f1d7
+      internalID: 64621282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb7759e6b0783f4f92510f3c87ad010
+      internalID: 881589693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c06434306f26a4998390f1eb67fe92
+      internalID: 1886440357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c6516bef143cf47bbbf5d364ccfca9
+      internalID: -742809854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5c8c0b57b337242a6040664585e2eb
+      internalID: 597279574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine MELEE_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.42, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2634a156be5d6fa41a98ee233836b264
+      internalID: 856761679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BLUE SpaceMarine MELEE_0: 510874175
+      BLUE SpaceMarine MELEE_1: -1966166187
+      BLUE SpaceMarine MELEE_10: -7656671
+      BLUE SpaceMarine MELEE_11: -1522095533
+      BLUE SpaceMarine MELEE_12: 204159744
+      BLUE SpaceMarine MELEE_13: 291967850
+      BLUE SpaceMarine MELEE_14: -815335026
+      BLUE SpaceMarine MELEE_15: -1045546080
+      BLUE SpaceMarine MELEE_16: -1450796502
+      BLUE SpaceMarine MELEE_17: -1118756556
+      BLUE SpaceMarine MELEE_18: -327526842
+      BLUE SpaceMarine MELEE_19: 64621282
+      BLUE SpaceMarine MELEE_2: 501846737
+      BLUE SpaceMarine MELEE_20: 881589693
+      BLUE SpaceMarine MELEE_21: 1886440357
+      BLUE SpaceMarine MELEE_22: -742809854
+      BLUE SpaceMarine MELEE_23: 597279574
+      BLUE SpaceMarine MELEE_24: 856761679
+      BLUE SpaceMarine MELEE_3: -1276776730
+      BLUE SpaceMarine MELEE_4: -1351697996
+      BLUE SpaceMarine MELEE_5: 638025752
+      BLUE SpaceMarine MELEE_6: -963674070
+      BLUE SpaceMarine MELEE_7: 486302012
+      BLUE SpaceMarine MELEE_8: -726118109
+      BLUE SpaceMarine MELEE_9: 1234422391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

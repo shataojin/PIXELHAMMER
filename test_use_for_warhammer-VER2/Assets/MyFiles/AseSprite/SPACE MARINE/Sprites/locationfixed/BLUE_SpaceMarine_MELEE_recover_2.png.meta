@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 60da95aea0841bc4eaea3f3ee88cbfbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8947200924150057559
+    second: BLUE_SpaceMarine_MELEE_recover_2 0
+  - first:
+      213: 101598977676740511
+    second: BLUE_SpaceMarine_MELEE_recover_2 1
+  - first:
+      213: -8715977260242733199
+    second: BLUE_SpaceMarine_MELEE_recover_2 2
+  - first:
+      213: 8290473764403137177
+    second: BLUE_SpaceMarine_MELEE_recover_2 3
+  - first:
+      213: 6732924534424501403
+    second: BLUE_SpaceMarine_MELEE_recover_2 4
+  - first:
+      213: 5696783048284640805
+    second: BLUE_SpaceMarine_MELEE_recover_2 5
+  - first:
+      213: 4772563660903593245
+    second: BLUE_SpaceMarine_MELEE_recover_2 6
+  - first:
+      213: -4463473404861394318
+    second: BLUE_SpaceMarine_MELEE_recover_2 7
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 294
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 294
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 294
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLUE_SpaceMarine_MELEE_recover_2 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 98
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ac20216d7da2c70800000000000000
+      internalID: 8947200924150057559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE_SpaceMarine_MELEE_recover_2 1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 140
+        width: 98
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9707fd5bb3f86100800000000000000
+      internalID: 101598977676740511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE_SpaceMarine_MELEE_recover_2 2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 140
+        width: 98
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17779dc6cd0aa0780800000000000000
+      internalID: -8715977260242733199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE_SpaceMarine_MELEE_recover_2 3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 98
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ac1f2c6fdad0370800000000000000
+      internalID: 8290473764403137177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE_SpaceMarine_MELEE_recover_2 4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 70
+        width: 98
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c72e50137207d50800000000000000
+      internalID: 6732924534424501403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE_SpaceMarine_MELEE_recover_2 5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 70
+        width: 98
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5261973eff90f0f40800000000000000
+      internalID: 5696783048284640805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE_SpaceMarine_MELEE_recover_2 6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 98
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15b81c0d5d8b3240800000000000000
+      internalID: 4772563660903593245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE_SpaceMarine_MELEE_recover_2 7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 98
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27255d6369e8e02c0800000000000000
+      internalID: -4463473404861394318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BLUE_SpaceMarine_MELEE_recover_2 0: 8947200924150057559
+      BLUE_SpaceMarine_MELEE_recover_2 1: 101598977676740511
+      BLUE_SpaceMarine_MELEE_recover_2 2: -8715977260242733199
+      BLUE_SpaceMarine_MELEE_recover_2 3: 8290473764403137177
+      BLUE_SpaceMarine_MELEE_recover_2 4: 6732924534424501403
+      BLUE_SpaceMarine_MELEE_recover_2 5: 5696783048284640805
+      BLUE_SpaceMarine_MELEE_recover_2 6: 4772563660903593245
+      BLUE_SpaceMarine_MELEE_recover_2 7: -4463473404861394318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 06bd4814114c21e419d46bd3a7f4d919
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1987756105331609913
+    second: BLUE SpaceMarine Roll-Forward 0
+  - first:
+      213: 8244380033786099043
+    second: BLUE SpaceMarine Roll-Forward 1
+  - first:
+      213: -5395228360820183318
+    second: BLUE SpaceMarine Roll-Forward 2
+  - first:
+      213: -7129849415907937135
+    second: BLUE SpaceMarine Roll-Forward 3
+  - first:
+      213: -268128779884232635
+    second: BLUE SpaceMarine Roll-Forward 4
+  - first:
+      213: -3672926071175724199
+    second: BLUE SpaceMarine Roll-Forward 5
+  - first:
+      213: -598316993284183906
+    second: BLUE SpaceMarine Roll-Forward 6
+  - first:
+      213: 8809909991202503814
+    second: BLUE SpaceMarine Roll-Forward 7
+  - first:
+      213: 1308403636976390390
+    second: BLUE SpaceMarine Roll-Forward 8
+  - first:
+      213: -7132860203726746222
+    second: BLUE SpaceMarine Roll-Forward 9
+  - first:
+      213: -6877213484231267679
+    second: BLUE SpaceMarine Roll-Forward 10
+  - first:
+      213: 8134454410429537675
+    second: BLUE SpaceMarine Roll-Forward 11
+  - first:
+      213: 2601766095039933350
+    second: BLUE SpaceMarine Roll-Forward 12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 280
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 280
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 280
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 280
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Forward 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931976e65ade59b10800000000000000
+      internalID: 1987756105331609913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Forward 1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 210
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365b42bc5fbe96270800000000000000
+      internalID: 8244380033786099043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Forward 2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 210
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee2337146c4025b0800000000000000
+      internalID: -5395228360820183318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Forward 3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 210
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194f7c65bbfad0d90800000000000000
+      internalID: -7129849415907937135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Forward 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54001f89b4a674cf0800000000000000
+      internalID: -268128779884232635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Forward 5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 140
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953cc41c235270dc0800000000000000
+      internalID: -3672926071175724199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Forward 6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 140
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9867385dd952b7f0800000000000000
+      internalID: -598316993284183906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Forward 7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 140
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c3ac8c576134a70800000000000000
+      internalID: 8809909991202503814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Forward 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f09ec4fc22682210800000000000000
+      internalID: 1308403636976390390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Forward 9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 70
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dc85caf6df20d90800000000000000
+      internalID: -7132860203726746222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Forward 10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 70
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa6edbe5ca3f80a0800000000000000
+      internalID: -6877213484231267679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Forward 11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 70
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d1347203363e070800000000000000
+      internalID: 8134454410429537675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Roll-Forward 12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aba28b8a745b1420800000000000000
+      internalID: 2601766095039933350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BLUE SpaceMarine Roll-Forward 0: 1987756105331609913
+      BLUE SpaceMarine Roll-Forward 1: 8244380033786099043
+      BLUE SpaceMarine Roll-Forward 10: -6877213484231267679
+      BLUE SpaceMarine Roll-Forward 11: 8134454410429537675
+      BLUE SpaceMarine Roll-Forward 12: 2601766095039933350
+      BLUE SpaceMarine Roll-Forward 2: -5395228360820183318
+      BLUE SpaceMarine Roll-Forward 3: -7129849415907937135
+      BLUE SpaceMarine Roll-Forward 4: -268128779884232635
+      BLUE SpaceMarine Roll-Forward 5: -3672926071175724199
+      BLUE SpaceMarine Roll-Forward 6: -598316993284183906
+      BLUE SpaceMarine Roll-Forward 7: 8809909991202503814
+      BLUE SpaceMarine Roll-Forward 8: 1308403636976390390
+      BLUE SpaceMarine Roll-Forward 9: -7132860203726746222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

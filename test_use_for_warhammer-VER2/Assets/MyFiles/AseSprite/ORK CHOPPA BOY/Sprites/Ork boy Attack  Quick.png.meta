@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: b534b45fed0eb404b8cd3881c6ded7b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1275514274253799657
+    second: Ork boy Attack  Quick 0
+  - first:
+      213: -283026187899363737
+    second: Ork boy Attack  Quick 1
+  - first:
+      213: -880919183533571067
+    second: Ork boy Attack  Quick 2
+  - first:
+      213: -8588781641703940394
+    second: Ork boy Attack  Quick 3
+  - first:
+      213: 1537541986788792761
+    second: Ork boy Attack  Quick 4
+  - first:
+      213: 88284202871550901
+    second: Ork boy Attack  Quick 5
+  - first:
+      213: 4180317683739063514
+    second: Ork boy Attack  Quick 6
+  - first:
+      213: -3921882991440240262
+    second: Ork boy Attack  Quick 7
+  - first:
+      213: 319051342894406644
+    second: Ork boy Attack  Quick 8
+  - first:
+      213: -3910668558506767746
+    second: Ork boy Attack  Quick 9
+  - first:
+      213: -5716063520987374303
+    second: Ork boy Attack  Quick 10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 480
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 480
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 480
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ork boy Attack  Quick 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 120
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f792986867c4ee0800000000000000
+      internalID: -1275514274253799657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack  Quick 1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 120
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e10208e2d721cf0800000000000000
+      internalID: -283026187899363737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack  Quick 2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 120
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50487ad7ba856c3f0800000000000000
+      internalID: -880919183533571067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack  Quick 3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 120
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de17d82a948ec880800000000000000
+      internalID: -8588781641703940394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack  Quick 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 120
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b95bcd6a42765510800000000000000
+      internalID: 1537541986788792761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack  Quick 5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 120
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3ff67c306a93100800000000000000
+      internalID: 88284202871550901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack  Quick 6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 120
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4fc8bf8c8730a30800000000000000
+      internalID: 4180317683739063514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack  Quick 7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 80
+        width: 120
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71ee84c23ca299c0800000000000000
+      internalID: -3921882991440240262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack  Quick 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb1556818f7d6400800000000000000
+      internalID: 319051342894406644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack  Quick 9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a4ae76aa38ab9c0800000000000000
+      internalID: -3910668558506767746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack  Quick 10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 120
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d9afd33867ca0b0800000000000000
+      internalID: -5716063520987374303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ork boy Attack  Quick 0: -1275514274253799657
+      Ork boy Attack  Quick 1: -283026187899363737
+      Ork boy Attack  Quick 10: -5716063520987374303
+      Ork boy Attack  Quick 2: -880919183533571067
+      Ork boy Attack  Quick 3: -8588781641703940394
+      Ork boy Attack  Quick 4: 1537541986788792761
+      Ork boy Attack  Quick 5: 88284202871550901
+      Ork boy Attack  Quick 6: 4180317683739063514
+      Ork boy Attack  Quick 7: -3921882991440240262
+      Ork boy Attack  Quick 8: 319051342894406644
+      Ork boy Attack  Quick 9: -3910668558506767746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

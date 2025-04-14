@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: 608e5ae32ba295944a62200960c40dd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2242557362508730381
+    second: Ork boy EMOTE warcry1 0
+  - first:
+      213: 3422774301017689143
+    second: Ork boy EMOTE warcry1 1
+  - first:
+      213: 6375662806887156152
+    second: Ork boy EMOTE warcry1 2
+  - first:
+      213: -1770471765602835066
+    second: Ork boy EMOTE warcry1 3
+  - first:
+      213: 7012378590669671917
+    second: Ork boy EMOTE warcry1 4
+  - first:
+      213: 1337315160033902833
+    second: Ork boy EMOTE warcry1 5
+  - first:
+      213: 7796091687521380206
+    second: Ork boy EMOTE warcry1 6
+  - first:
+      213: -1746790618376430123
+    second: Ork boy EMOTE warcry1 7
+  - first:
+      213: 6693486898652146512
+    second: Ork boy EMOTE warcry1 8
+  - first:
+      213: 8825217780366157001
+    second: Ork boy EMOTE warcry1 9
+  - first:
+      213: 387941032261568561
+    second: Ork boy EMOTE warcry1 10
+  - first:
+      213: -2324482628045402113
+    second: Ork boy EMOTE warcry1 11
+  - first:
+      213: -2304711879129077492
+    second: Ork boy EMOTE warcry1 12
+  - first:
+      213: -1038163786656555515
+    second: Ork boy EMOTE warcry1 13
+  - first:
+      213: 3363969194443689268
+    second: Ork boy EMOTE warcry1 14
+  - first:
+      213: -8773898242514762922
+    second: Ork boy EMOTE warcry1 15
+  - first:
+      213: 393032191943368291
+    second: Ork boy EMOTE warcry1 16
+  - first:
+      213: 6618763962004468313
+    second: Ork boy EMOTE warcry1 17
+  - first:
+      213: 9061305002018253221
+    second: Ork boy EMOTE warcry1 18
+  - first:
+      213: -5652543706482841727
+    second: Ork boy EMOTE warcry1 19
+  - first:
+      213: 8528881896569207847
+    second: Ork boy EMOTE warcry1 20
+  - first:
+      213: 8262418180518375853
+    second: Ork boy EMOTE warcry1 21
+  - first:
+      213: 9087121554658690529
+    second: Ork boy EMOTE warcry1 22
+  - first:
+      213: 5328194334794276770
+    second: Ork boy EMOTE warcry1 23
+  - first:
+      213: 7796948006525852079
+    second: Ork boy EMOTE warcry1 24
+  - first:
+      213: 2911891447027439349
+    second: Ork boy EMOTE warcry1 25
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 400
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 400
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 400
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffea3bd5f5d0e0e0800000000000000
+      internalID: -2242557362508730381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cce769713208f20800000000000000
+      internalID: 3422774301017689143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9cd2c0b87ea7850800000000000000
+      internalID: 6375662806887156152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685626e3f450e67e0800000000000000
+      internalID: -1770471765602835066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded8b6fcc29f05160800000000000000
+      internalID: 7012378590669671917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0c09a7d091f8210800000000000000
+      internalID: 1337315160033902833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6766179518413c60800000000000000
+      internalID: 7796091687521380206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd10beff2722c7e0800000000000000
+      internalID: -1746790618376430123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b64e6eeda04ec50800000000000000
+      internalID: 6693486898652146512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4af2030d8797a70800000000000000
+      internalID: 8825217780366157001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138cfbd305e326500800000000000000
+      internalID: 387941032261568561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff89cc8d57cdbfd0800000000000000
+      internalID: -2324482628045402113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0963eeb1c40400e0800000000000000
+      internalID: -2304711879129077492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e59a55983b791f0800000000000000
+      internalID: -1038163786656555515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d4c26c8283fae20800000000000000
+      internalID: 3363969194443689268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653cb77d80adc3680800000000000000
+      internalID: -8773898242514762922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ed31a32b4547500800000000000000
+      internalID: 393032191943368291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952fe6771c29adb50800000000000000
+      internalID: 6618763962004468313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9a4c6f3e830cd70800000000000000
+      internalID: 9061305002018253221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18768b982712e81b0800000000000000
+      internalID: -5652543706482841727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c7440a5ecac5670800000000000000
+      internalID: 8528881896569207847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1f68b1f810aa270800000000000000
+      internalID: 8262418180518375853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e50a3888e0fb1e70800000000000000
+      internalID: 9087121554658690529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af59ab748c81f940800000000000000
+      internalID: 5328194334794276770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9d925e6e2543c60800000000000000
+      internalID: 7796948006525852079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy EMOTE warcry1 25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6919cd7dd196820800000000000000
+      internalID: 2911891447027439349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ork boy EMOTE warcry1 0: -2242557362508730381
+      Ork boy EMOTE warcry1 1: 3422774301017689143
+      Ork boy EMOTE warcry1 10: 387941032261568561
+      Ork boy EMOTE warcry1 11: -2324482628045402113
+      Ork boy EMOTE warcry1 12: -2304711879129077492
+      Ork boy EMOTE warcry1 13: -1038163786656555515
+      Ork boy EMOTE warcry1 14: 3363969194443689268
+      Ork boy EMOTE warcry1 15: -8773898242514762922
+      Ork boy EMOTE warcry1 16: 393032191943368291
+      Ork boy EMOTE warcry1 17: 6618763962004468313
+      Ork boy EMOTE warcry1 18: 9061305002018253221
+      Ork boy EMOTE warcry1 19: -5652543706482841727
+      Ork boy EMOTE warcry1 2: 6375662806887156152
+      Ork boy EMOTE warcry1 20: 8528881896569207847
+      Ork boy EMOTE warcry1 21: 8262418180518375853
+      Ork boy EMOTE warcry1 22: 9087121554658690529
+      Ork boy EMOTE warcry1 23: 5328194334794276770
+      Ork boy EMOTE warcry1 24: 7796948006525852079
+      Ork boy EMOTE warcry1 25: 2911891447027439349
+      Ork boy EMOTE warcry1 3: -1770471765602835066
+      Ork boy EMOTE warcry1 4: 7012378590669671917
+      Ork boy EMOTE warcry1 5: 1337315160033902833
+      Ork boy EMOTE warcry1 6: 7796091687521380206
+      Ork boy EMOTE warcry1 7: -1746790618376430123
+      Ork boy EMOTE warcry1 8: 6693486898652146512
+      Ork boy EMOTE warcry1 9: 8825217780366157001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

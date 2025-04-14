@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 637085c9d44e89a40be2cb7dcea62cd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3189707703895689093
+    second: BLUE SpaceMarine WALK 0
+  - first:
+      213: -8031293619327751714
+    second: BLUE SpaceMarine WALK 1
+  - first:
+      213: -6943259422768670420
+    second: BLUE SpaceMarine WALK 2
+  - first:
+      213: -4589744082960704803
+    second: BLUE SpaceMarine WALK 3
+  - first:
+      213: -2771968620787363555
+    second: BLUE SpaceMarine WALK 4
+  - first:
+      213: 5643883568387380637
+    second: BLUE SpaceMarine WALK 5
+  - first:
+      213: 8164931993217807699
+    second: BLUE SpaceMarine WALK 6
+  - first:
+      213: -7080669902284710738
+    second: BLUE SpaceMarine WALK 7
+  - first:
+      213: 6357086661251131913
+    second: BLUE SpaceMarine WALK 8
+  - first:
+      213: 4300543086101131530
+    second: BLUE SpaceMarine WALK 9
+  - first:
+      213: 8384402051911229654
+    second: BLUE SpaceMarine WALK 10
+  - first:
+      213: -5738974225419886617
+    second: BLUE SpaceMarine WALK 11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 248
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 248
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 248
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLUE SpaceMarine WALK 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7878fb3eb1ebb3d0800000000000000
+      internalID: -3189707703895689093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine WALK 1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 140
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9ab1d310d1b8090800000000000000
+      internalID: -8031293619327751714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine WALK 2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 140
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c295d7a875694af90800000000000000
+      internalID: -6943259422768670420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine WALK 3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 140
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda1d25f214fd40c0800000000000000
+      internalID: -4589744082960704803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine WALK 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d119075d93df789d0800000000000000
+      internalID: -2771968620787363555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine WALK 5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 70
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95d46fe33a135e40800000000000000
+      internalID: 5643883568387380637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine WALK 6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 70
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35538fe536aaf4170800000000000000
+      internalID: 8164931993217807699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine WALK 7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 70
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac15862d386cbd90800000000000000
+      internalID: -7080669902284710738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine WALK 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a6f3a13a8e83850800000000000000
+      internalID: 6357086661251131913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine WALK 9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01f15cc6299eab30800000000000000
+      internalID: 4300543086101131530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine WALK 10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0a9366e316b5470800000000000000
+      internalID: 8384402051911229654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine WALK 11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 62
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef99be29511b50b0800000000000000
+      internalID: -5738974225419886617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BLUE SpaceMarine WALK 0: -3189707703895689093
+      BLUE SpaceMarine WALK 1: -8031293619327751714
+      BLUE SpaceMarine WALK 10: 8384402051911229654
+      BLUE SpaceMarine WALK 11: -5738974225419886617
+      BLUE SpaceMarine WALK 2: -6943259422768670420
+      BLUE SpaceMarine WALK 3: -4589744082960704803
+      BLUE SpaceMarine WALK 4: -2771968620787363555
+      BLUE SpaceMarine WALK 5: 5643883568387380637
+      BLUE SpaceMarine WALK 6: 8164931993217807699
+      BLUE SpaceMarine WALK 7: -7080669902284710738
+      BLUE SpaceMarine WALK 8: 6357086661251131913
+      BLUE SpaceMarine WALK 9: 4300543086101131530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

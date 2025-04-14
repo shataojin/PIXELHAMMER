@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: c7f2123824ebe504686e89e7bdb39fa2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6115901205812015157
+    second: Ork boy Attack Strong 0
+  - first:
+      213: 4579429907029747943
+    second: Ork boy Attack Strong 1
+  - first:
+      213: 943605416778342826
+    second: Ork boy Attack Strong 2
+  - first:
+      213: 642798621211281219
+    second: Ork boy Attack Strong 3
+  - first:
+      213: -4707876937522254106
+    second: Ork boy Attack Strong 4
+  - first:
+      213: 2140915221930746877
+    second: Ork boy Attack Strong 5
+  - first:
+      213: 2665811675230054882
+    second: Ork boy Attack Strong 6
+  - first:
+      213: 192956578744161121
+    second: Ork boy Attack Strong 7
+  - first:
+      213: 6401940637917611698
+    second: Ork boy Attack Strong 8
+  - first:
+      213: -1009337975564091919
+    second: Ork boy Attack Strong 9
+  - first:
+      213: -7648982865187525259
+    second: Ork boy Attack Strong 10
+  - first:
+      213: 741189429333541541
+    second: Ork boy Attack Strong 11
+  - first:
+      213: -6901695839310450696
+    second: Ork boy Attack Strong 12
+  - first:
+      213: 2788611786905948062
+    second: Ork boy Attack Strong 13
+  - first:
+      213: 7854216118740746280
+    second: Ork boy Attack Strong 14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 448
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 448
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 448
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ork boy Attack Strong 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 112
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf013ab144ff1ba0800000000000000
+      internalID: -6115901205812015157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Strong 1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 246
+        width: 112
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8ee42dc376d8f30800000000000000
+      internalID: 4579429907029747943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Strong 2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 246
+        width: 112
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1253b802c581d00800000000000000
+      internalID: 943605416778342826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Strong 3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 246
+        width: 112
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347c867b0fdabe800800000000000000
+      internalID: 642798621211281219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Strong 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 112
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee6bb46ed24aaeb0800000000000000
+      internalID: -4707876937522254106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Strong 5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 164
+        width: 112
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3a8612d0f06bd10800000000000000
+      internalID: 2140915221930746877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Strong 6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 164
+        width: 112
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e92d24389ddef420800000000000000
+      internalID: 2665811675230054882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Strong 7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 164
+        width: 112
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163de1d6cf48da200800000000000000
+      internalID: 192956578744161121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Strong 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 112
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6873c571348d850800000000000000
+      internalID: 6401940637917611698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Strong 9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 82
+        width: 112
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdb03c757c1ef1f0800000000000000
+      internalID: -1009337975564091919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Strong 10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 82
+        width: 112
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57da2733c9a59d590800000000000000
+      internalID: -7648982865187525259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Strong 11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 82
+        width: 112
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a243b6ebdb394a00800000000000000
+      internalID: 741189429333541541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Strong 12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 112
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffeb1e63304830a0800000000000000
+      internalID: -6901695839310450696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Strong 13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 112
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f0ffe35a323b620800000000000000
+      internalID: 2788611786905948062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Strong 14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 112
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82080b252f7cffc60800000000000000
+      internalID: 7854216118740746280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ork boy Attack Strong 0: -6115901205812015157
+      Ork boy Attack Strong 1: 4579429907029747943
+      Ork boy Attack Strong 10: -7648982865187525259
+      Ork boy Attack Strong 11: 741189429333541541
+      Ork boy Attack Strong 12: -6901695839310450696
+      Ork boy Attack Strong 13: 2788611786905948062
+      Ork boy Attack Strong 14: 7854216118740746280
+      Ork boy Attack Strong 2: 943605416778342826
+      Ork boy Attack Strong 3: 642798621211281219
+      Ork boy Attack Strong 4: -4707876937522254106
+      Ork boy Attack Strong 5: 2140915221930746877
+      Ork boy Attack Strong 6: 2665811675230054882
+      Ork boy Attack Strong 7: 192956578744161121
+      Ork boy Attack Strong 8: 6401940637917611698
+      Ork boy Attack Strong 9: -1009337975564091919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: f053c187df1d02c4c9e9822bc60399d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4624829964952932237
+    second: BLUE SpaceMarine RELOAD 0
+  - first:
+      213: -5962000056784111217
+    second: BLUE SpaceMarine RELOAD 1
+  - first:
+      213: 145491416545311415
+    second: BLUE SpaceMarine RELOAD 2
+  - first:
+      213: -622766286348616681
+    second: BLUE SpaceMarine RELOAD 3
+  - first:
+      213: 3075002037265428751
+    second: BLUE SpaceMarine RELOAD 4
+  - first:
+      213: 3014375086865451571
+    second: BLUE SpaceMarine RELOAD 5
+  - first:
+      213: -8563601086466371970
+    second: BLUE SpaceMarine RELOAD 6
+  - first:
+      213: -6100820578714590714
+    second: BLUE SpaceMarine RELOAD 7
+  - first:
+      213: -2081029948456942567
+    second: BLUE SpaceMarine RELOAD 8
+  - first:
+      213: 7534826387204749110
+    second: BLUE SpaceMarine RELOAD 9
+  - first:
+      213: 3722992559630989020
+    second: BLUE SpaceMarine RELOAD 10
+  - first:
+      213: -3000198329397150428
+    second: BLUE SpaceMarine RELOAD 11
+  - first:
+      213: -3326719398480808828
+    second: BLUE SpaceMarine RELOAD 12
+  - first:
+      213: -4858492161293505198
+    second: BLUE SpaceMarine RELOAD 13
+  - first:
+      213: -4968144285299513628
+    second: BLUE SpaceMarine RELOAD 14
+  - first:
+      213: 5082162417685112823
+    second: BLUE SpaceMarine RELOAD 15
+  - first:
+      213: 4403407374590848088
+    second: BLUE SpaceMarine RELOAD 16
+  - first:
+      213: 6002647139749516346
+    second: BLUE SpaceMarine RELOAD 17
+  - first:
+      213: -5675838051390060208
+    second: BLUE SpaceMarine RELOAD 18
+  - first:
+      213: -5483976716242199104
+    second: BLUE SpaceMarine RELOAD 19
+  - first:
+      213: 5147054831882402468
+    second: BLUE SpaceMarine RELOAD 20
+  - first:
+      213: 8625776911533452976
+    second: BLUE SpaceMarine RELOAD 21
+  - first:
+      213: -2618919864769014362
+    second: BLUE SpaceMarine RELOAD 22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 350
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 350
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 350
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 350
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370f56876ad41dfb0800000000000000
+      internalID: -4624829964952932237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 280
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8936805988b24da0800000000000000
+      internalID: -5962000056784111217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 280
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba3d092ca3e40200800000000000000
+      internalID: 145491416545311415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 280
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cf914bc5d7b57f0800000000000000
+      internalID: -622766286348616681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 280
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01fec29f0a9caa20800000000000000
+      internalID: 3075002037265428751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a0760bb2635d920800000000000000
+      internalID: 3014375086865451571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 210
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ec50b0f2af72980800000000000000
+      internalID: -8563601086466371970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 210
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602e257d108855ba0800000000000000
+      internalID: -6100820578714590714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 210
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9144643a942be13e0800000000000000
+      internalID: -2081029948456942567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 210
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637349d8da4119860800000000000000
+      internalID: 7534826387204749110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd63a3af10abaa330800000000000000
+      internalID: 3722992559630989020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 140
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dff80e3872d56d0800000000000000
+      internalID: -3000198329397150428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 140
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4847622355e15d1d0800000000000000
+      internalID: -3326719398480808828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 140
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25da416ee1b239cb0800000000000000
+      internalID: -4858492161293505198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 140
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6e5d9481b9d0bb0800000000000000
+      internalID: -4968144285299513628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f726fcdac7778640800000000000000
+      internalID: 5082162417685112823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 70
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ca2db4dab0c1d30800000000000000
+      internalID: 4403407374590848088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 70
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34d8cc25cfad4350800000000000000
+      internalID: 6002647139749516346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 70
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05900483d5f5b31b0800000000000000
+      internalID: -5675838051390060208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 70
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cddedf5b3005e3b0800000000000000
+      internalID: -5483976716242199104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aafecd69130e6740800000000000000
+      internalID: 5147054831882402468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bea7b3566ae4b770800000000000000
+      internalID: 8625776911533452976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RELOAD 22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a59a35324ab7abd0800000000000000
+      internalID: -2618919864769014362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BLUE SpaceMarine RELOAD 0: -4624829964952932237
+      BLUE SpaceMarine RELOAD 1: -5962000056784111217
+      BLUE SpaceMarine RELOAD 10: 3722992559630989020
+      BLUE SpaceMarine RELOAD 11: -3000198329397150428
+      BLUE SpaceMarine RELOAD 12: -3326719398480808828
+      BLUE SpaceMarine RELOAD 13: -4858492161293505198
+      BLUE SpaceMarine RELOAD 14: -4968144285299513628
+      BLUE SpaceMarine RELOAD 15: 5082162417685112823
+      BLUE SpaceMarine RELOAD 16: 4403407374590848088
+      BLUE SpaceMarine RELOAD 17: 6002647139749516346
+      BLUE SpaceMarine RELOAD 18: -5675838051390060208
+      BLUE SpaceMarine RELOAD 19: -5483976716242199104
+      BLUE SpaceMarine RELOAD 2: 145491416545311415
+      BLUE SpaceMarine RELOAD 20: 5147054831882402468
+      BLUE SpaceMarine RELOAD 21: 8625776911533452976
+      BLUE SpaceMarine RELOAD 22: -2618919864769014362
+      BLUE SpaceMarine RELOAD 3: -622766286348616681
+      BLUE SpaceMarine RELOAD 4: 3075002037265428751
+      BLUE SpaceMarine RELOAD 5: 3014375086865451571
+      BLUE SpaceMarine RELOAD 6: -8563601086466371970
+      BLUE SpaceMarine RELOAD 7: -6100820578714590714
+      BLUE SpaceMarine RELOAD 8: -2081029948456942567
+      BLUE SpaceMarine RELOAD 9: 7534826387204749110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

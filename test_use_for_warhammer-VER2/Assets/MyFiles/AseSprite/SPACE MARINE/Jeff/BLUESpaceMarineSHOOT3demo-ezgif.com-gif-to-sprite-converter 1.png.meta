@@ -1,0 +1,633 @@
+fileFormatVersion: 2
+guid: 01e4761b536a9374d823fb40671fe2ec
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d93c6ba58c90af49b7940722001d321
+      internalID: -1001677675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 280
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67e3a5255e737b448eb65a08ea5994d
+      internalID: 22779883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 280
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc5711f4f23b7043a13035d92a44d0c
+      internalID: -2143425558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 280
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19dd0a20a6c1b54f8c44d2c291ede41
+      internalID: -38391553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 280
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e76d026b25433a4889f310b4ca178d0
+      internalID: -1531299574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdcaeb376e20be4fa049d75895710dc
+      internalID: 904703994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 210
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880c0a54198decf45b4106a8be9763d3
+      internalID: -276065221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 210
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3d9a2c022529c459960cf17f90923c
+      internalID: -1216216318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 210
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a4d59626dc465459f6b643b2961194
+      internalID: 919195484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 210
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade4493024dcf2847b407381e41aa7da
+      internalID: 1529956021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1d9e4919c2c894086a1de2f0653c20
+      internalID: 1069236551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 140
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338c25458f7965a40b35387ebe27454f
+      internalID: -1638311780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 140
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaab3f7335cc8046adc4366c9fccbe5
+      internalID: -415016597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 140
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b961d8138f9d4634aa062cfdd866615e
+      internalID: -1743863792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 140
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e012f6c366a22441a031d822509179a
+      internalID: -897905926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f783453283f4f74ab317d30cd98bea9
+      internalID: -2086986826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 70
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2f85d8c90e19f42ac067ab6e833fbe
+      internalID: -1161113262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 70
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c8e595c0634884e9515d7c1a415de7
+      internalID: -1241266376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 70
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf2a8dd811db834cba9d95007276ffe
+      internalID: -293759915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_19
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 70
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2db591b8367ff84b948d44567736e16
+      internalID: 1030136003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942feedbd1ba3884b9cf95ffd6919668
+      internalID: -1753271142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9c944cb448a67498e7c272926cd0b1
+      internalID: -1326510272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 98
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda1f30cb6d65404eafc36a8427b16b0
+      internalID: 1105116309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 440ab8d07c054444b861aa357dc73378
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_0: -1001677675
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_1: 22779883
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_10: 1069236551
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_11: -1638311780
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_12: -415016597
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_13: -1743863792
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_14: -897905926
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_15: -2086986826
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_16: -1161113262
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_17: -1241266376
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_18: -293759915
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_19: 1030136003
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_2: -2143425558
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_20: -1753271142
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_21: -1326510272
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_22: 1105116309
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_3: -38391553
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_4: -1531299574
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_5: 904703994
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_6: -276065221
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_7: -1216216318
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_8: 919195484
+      BLUESpaceMarineSHOOT3demo-ezgif.com-gif-to-sprite-converter 1_9: 1529956021
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

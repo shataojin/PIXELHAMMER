@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: f85e04b75b6bfca4b9799b31962bae1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2530370192644763600
+    second: BLUE SpaceMarine Tactical SHOOT(leg) 0
+  - first:
+      213: 7416257655980940416
+    second: BLUE SpaceMarine Tactical SHOOT(leg) 1
+  - first:
+      213: -1780673441666026334
+    second: BLUE SpaceMarine Tactical SHOOT(leg) 2
+  - first:
+      213: -3904970564442507165
+    second: BLUE SpaceMarine Tactical SHOOT(leg) 3
+  - first:
+      213: 4725472476871806020
+    second: BLUE SpaceMarine Tactical SHOOT(leg) 4
+  - first:
+      213: -8997866838863617453
+    second: BLUE SpaceMarine Tactical SHOOT(leg) 5
+  - first:
+      213: -3580635063244616924
+    second: BLUE SpaceMarine Tactical SHOOT(leg) 6
+  - first:
+      213: -7527647459486345211
+    second: BLUE SpaceMarine Tactical SHOOT(leg) 7
+  - first:
+      213: 6041189808187491318
+    second: BLUE SpaceMarine Tactical SHOOT(leg) 8
+  - first:
+      213: 2057992415665445337
+    second: BLUE SpaceMarine Tactical SHOOT(leg) 9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 216
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 216
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 216
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT(leg) 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0301c2d57b152ecd0800000000000000
+      internalID: -2530370192644763600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT(leg) 1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 108
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cd38b8b07dbe660800000000000000
+      internalID: 7416257655980940416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT(leg) 2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4368070f6c947e0800000000000000
+      internalID: -1780673441666026334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT(leg) 3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 108
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3683c0806f1cec9c0800000000000000
+      internalID: -3904970564442507165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT(leg) 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c44db5e20449140800000000000000
+      internalID: 4725472476871806020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT(leg) 5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 54
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352644568c7212380800000000000000
+      internalID: -8997866838863617453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT(leg) 6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 54
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b0ff881670f4ec0800000000000000
+      internalID: -3580635063244616924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT(leg) 7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 54
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508d1fec48c688790800000000000000
+      internalID: -7527647459486345211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT(leg) 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3c9b97f1e96d350800000000000000
+      internalID: 6041189808187491318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT(leg) 9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9df26c2357f8c10800000000000000
+      internalID: 2057992415665445337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BLUE SpaceMarine Tactical SHOOT(leg) 0: -2530370192644763600
+      BLUE SpaceMarine Tactical SHOOT(leg) 1: 7416257655980940416
+      BLUE SpaceMarine Tactical SHOOT(leg) 2: -1780673441666026334
+      BLUE SpaceMarine Tactical SHOOT(leg) 3: -3904970564442507165
+      BLUE SpaceMarine Tactical SHOOT(leg) 4: 4725472476871806020
+      BLUE SpaceMarine Tactical SHOOT(leg) 5: -8997866838863617453
+      BLUE SpaceMarine Tactical SHOOT(leg) 6: -3580635063244616924
+      BLUE SpaceMarine Tactical SHOOT(leg) 7: -7527647459486345211
+      BLUE SpaceMarine Tactical SHOOT(leg) 8: 6041189808187491318
+      BLUE SpaceMarine Tactical SHOOT(leg) 9: 2057992415665445337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

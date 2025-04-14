@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: 8b31bb7d57d6be24b88fb8bdc1b42250
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1856bdcaa7dee748888fb3681c0a191
+      internalID: 1011792043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 280
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0591ca3d4e7bc4fb873612fb7b9a76
+      internalID: 1799145491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 280
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9109b2be07e3014aa319490b2e1770a
+      internalID: -1047122757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 280
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4053dafb5be7a4f95ee9ab17ac3d59
+      internalID: -291007569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 280
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863fdfa73bc749e4291fc700ddeab2ab
+      internalID: 418257556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43d0a6568dbbce4c90168f38dbf7268
+      internalID: 1012382541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 210
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df31488dec545c4bb4b1117da6b7eb6
+      internalID: -171647002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 210
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1603b808ca66c6c44a925b9d28fc79b8
+      internalID: -1120604969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 210
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09042a03f9ea3c14996bc00927cbe96b
+      internalID: 483650208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 210
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2076ac02aeaa36749a79ef4fbe095d12
+      internalID: -936247122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa5c95cc4e52ce40b6e5ec7fc982e3a
+      internalID: 655126459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 140
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a83bb2c426986c49bdc3b13aea1a941
+      internalID: -1216167591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 140
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cefa31059ec8e04eb69435a37230c52
+      internalID: -11270659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 140
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3996901bdf81f4e91ce46525c1c440
+      internalID: 1724539435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 140
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0caf1160839589488ccbe4bcb067905
+      internalID: -753885182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63beb7a4fc1707a4f88d3ffb05ccb44e
+      internalID: -850405798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine Tactical SHOOT (torso) NEW_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 70
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dd615170520ea41b8576c849519636
+      internalID: -454466956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 58c90dd41d6d0c745b2a88329c4112f9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_0: 1011792043
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_1: 1799145491
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_10: 655126459
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_11: -1216167591
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_12: -11270659
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_13: 1724539435
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_14: -753885182
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_15: -850405798
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_16: -454466956
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_2: -1047122757
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_3: -291007569
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_4: 418257556
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_5: 1012382541
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_6: -171647002
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_7: -1120604969
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_8: 483650208
+      BLUE SpaceMarine Tactical SHOOT (torso) NEW_9: -936247122
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

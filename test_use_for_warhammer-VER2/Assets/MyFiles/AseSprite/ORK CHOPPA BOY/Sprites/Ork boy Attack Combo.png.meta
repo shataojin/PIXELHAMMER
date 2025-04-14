@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: f018cf46d482c474bbbc5d84202415ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2338822217869087225
+    second: Ork boy Attack Combo 0
+  - first:
+      213: -467263329792966946
+    second: Ork boy Attack Combo 1
+  - first:
+      213: -583865891209574441
+    second: Ork boy Attack Combo 2
+  - first:
+      213: 8957706668752392079
+    second: Ork boy Attack Combo 3
+  - first:
+      213: 1433888582545245716
+    second: Ork boy Attack Combo 4
+  - first:
+      213: -790603855438320537
+    second: Ork boy Attack Combo 5
+  - first:
+      213: -7163465157512126314
+    second: Ork boy Attack Combo 6
+  - first:
+      213: 3502182051494609168
+    second: Ork boy Attack Combo 7
+  - first:
+      213: 4888081398010671937
+    second: Ork boy Attack Combo 8
+  - first:
+      213: -6165590586778414000
+    second: Ork boy Attack Combo 9
+  - first:
+      213: 7963579475015145079
+    second: Ork boy Attack Combo 10
+  - first:
+      213: 281330214914391877
+    second: Ork boy Attack Combo 11
+  - first:
+      213: -5714007864150638547
+    second: Ork boy Attack Combo 12
+  - first:
+      213: -336255117007946277
+    second: Ork boy Attack Combo 13
+  - first:
+      213: -2080019587183988564
+    second: Ork boy Attack Combo 14
+  - first:
+      213: 4833762120549192017
+    second: Ork boy Attack Combo 15
+  - first:
+      213: 1294603183022589365
+    second: Ork boy Attack Combo 16
+  - first:
+      213: 4386467398706132310
+    second: Ork boy Attack Combo 17
+  - first:
+      213: -8900827999967552663
+    second: Ork boy Attack Combo 18
+  - first:
+      213: 6748202389839298257
+    second: Ork boy Attack Combo 19
+  - first:
+      213: 957347239753461732
+    second: Ork boy Attack Combo 20
+  - first:
+      213: 8377453543611600623
+    second: Ork boy Attack Combo 21
+  - first:
+      213: -8804186940328157297
+    second: Ork boy Attack Combo 22
+  - first:
+      213: -2349843150799026949
+    second: Ork boy Attack Combo 23
+  - first:
+      213: -6819344850197188794
+    second: Ork boy Attack Combo 24
+  - first:
+      213: -1309076743560255489
+    second: Ork boy Attack Combo 25
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 576
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 576
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 576
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1d0e06a6a257020800000000000000
+      internalID: 2338822217869087225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edebf1b2a72f389f0800000000000000
+      internalID: -467263329792966946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d78cfdb011b5e7f0800000000000000
+      internalID: -583865891209574441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 360
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f422951ca205c70800000000000000
+      internalID: 8957706668752392079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416091a911236e310800000000000000
+      internalID: 1433888582545245716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 360
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c6b867bf53705f0800000000000000
+      internalID: -790603855438320537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6902a959462469c90800000000000000
+      internalID: -7163465157512126314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 270
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011c51e35004a9030800000000000000
+      internalID: 3502182051494609168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 270
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143fe912224f5d340800000000000000
+      internalID: 4888081398010671937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 270
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054949c270c6f6aa0800000000000000
+      internalID: -6165590586778414000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 270
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7769ed4f651548e60800000000000000
+      internalID: 7963579475015145079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 270
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f7e84075c77e300800000000000000
+      internalID: 281330214914391877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2043852f14c3b0b0800000000000000
+      internalID: -5714007864150638547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 180
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd75dca0c1655bf0800000000000000
+      internalID: -336255117007946277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 180
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca03b04b4394223e0800000000000000
+      internalID: -2080019587183988564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 180
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151d21cc909f41340800000000000000
+      internalID: 4833762120549192017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 180
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5c6216cba57f110800000000000000
+      internalID: 1294603183022589365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 180
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655f5becbdcdfdc30800000000000000
+      internalID: 4386467398706132310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b5517b718e97480800000000000000
+      internalID: -8900827999967552663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 90
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de30dee15e66ad50800000000000000
+      internalID: 6748202389839298257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 90
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efa4380e3e294d00800000000000000
+      internalID: 957347239753461732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 90
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee8e4dbc91b24470800000000000000
+      internalID: 8377453543611600623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 90
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f5b95df9e31d580800000000000000
+      internalID: -8804186940328157297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 90
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf44db6ba1ea36fd0800000000000000
+      internalID: -2349843150799026949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f6b1b3df1dc51a0800000000000000
+      internalID: -6819344850197188794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack Combo 25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7ad5433a935dde0800000000000000
+      internalID: -1309076743560255489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ork boy Attack Combo 0: 2338822217869087225
+      Ork boy Attack Combo 1: -467263329792966946
+      Ork boy Attack Combo 10: 7963579475015145079
+      Ork boy Attack Combo 11: 281330214914391877
+      Ork boy Attack Combo 12: -5714007864150638547
+      Ork boy Attack Combo 13: -336255117007946277
+      Ork boy Attack Combo 14: -2080019587183988564
+      Ork boy Attack Combo 15: 4833762120549192017
+      Ork boy Attack Combo 16: 1294603183022589365
+      Ork boy Attack Combo 17: 4386467398706132310
+      Ork boy Attack Combo 18: -8900827999967552663
+      Ork boy Attack Combo 19: 6748202389839298257
+      Ork boy Attack Combo 2: -583865891209574441
+      Ork boy Attack Combo 20: 957347239753461732
+      Ork boy Attack Combo 21: 8377453543611600623
+      Ork boy Attack Combo 22: -8804186940328157297
+      Ork boy Attack Combo 23: -2349843150799026949
+      Ork boy Attack Combo 24: -6819344850197188794
+      Ork boy Attack Combo 25: -1309076743560255489
+      Ork boy Attack Combo 3: 8957706668752392079
+      Ork boy Attack Combo 4: 1433888582545245716
+      Ork boy Attack Combo 5: -790603855438320537
+      Ork boy Attack Combo 6: -7163465157512126314
+      Ork boy Attack Combo 7: 3502182051494609168
+      Ork boy Attack Combo 8: 4888081398010671937
+      Ork boy Attack Combo 9: -6165590586778414000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

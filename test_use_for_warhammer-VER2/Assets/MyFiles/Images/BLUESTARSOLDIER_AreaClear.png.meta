@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 9631cf2eef424ce4d9deae841b632f71
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a8328557f943141bff5a299a4b70a1
+      internalID: 1291365484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 244
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f57d233f9ebab4f9a9c189796b82ce
+      internalID: -828735267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 244
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f525d38941985dd49831d6c5a60fae6d
+      internalID: 1946656512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 244
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38185182193e24488cd6b45dbc6870b
+      internalID: 1180245377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 244
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4ef5b72b6a5014383a568d1ae58641
+      internalID: 695530354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 244
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a68ace1884b0804895a1147ea02a11f
+      internalID: -110294415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dad396d00f84284d95f4eb22c3a6bcb
+      internalID: -500547471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 183
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438480aae01b1b74796581a394426295
+      internalID: -1948610440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 183
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9348bc5590f48784bb06248b29b31bd1
+      internalID: 749302025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 183
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6f950f60277864591946601bc0ae42
+      internalID: -952844995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 183
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cdba0bce27e234189d73757950d5a7
+      internalID: 1261651199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 183
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f8826e03da7c5409ac4c79a84753b9
+      internalID: 1015671260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c343da06797f4944d9c8ac89952f9906
+      internalID: 115102851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 122
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24f2182005ddaa4585bd539cbbf8c51
+      internalID: 2082799817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 122
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f79f680ca8f7374e8e99a8facb6b980
+      internalID: -1283321238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 122
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9e37e59213dec418da2694bb549219
+      internalID: -436740777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 122
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ee9eb056a5cb242afc9d2ecb77a6a7
+      internalID: 471998715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 122
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf900aae5986b0c499ed9d8697f3ec6f
+      internalID: -1412957291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96981a448552c4a4d8c97fb7966c0ed8
+      internalID: 360122813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 61
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98d5bce0f0726549939cd044acc3dad
+      internalID: 2035863523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 61
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71265a3a363cbbe4b9b9300e7852ddf9
+      internalID: -1391823600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 61
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e9481f5e4889c448a8690712579a4a
+      internalID: -350525122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 61
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e0f6fc0debd7d42ac224d39bb9db48
+      internalID: 978394891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 61
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060f24b22ed191b4b9f09f4b3600ef91
+      internalID: 1741824878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce8fb4c166219d4fbfb6067b84ac165
+      internalID: -398015906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab71b10746520374b9276e2c39a2b012
+      internalID: -1694319918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUESTARSOLDIER_AreaClear_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beae5577bb257484aa649189fb4f7dd9
+      internalID: 625279017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7e6cc2516e599f84491dde310881fb8a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BLUESTARSOLDIER_AreaClear_0: 1291365484
+      BLUESTARSOLDIER_AreaClear_1: -828735267
+      BLUESTARSOLDIER_AreaClear_10: 1261651199
+      BLUESTARSOLDIER_AreaClear_11: 1015671260
+      BLUESTARSOLDIER_AreaClear_12: 115102851
+      BLUESTARSOLDIER_AreaClear_13: 2082799817
+      BLUESTARSOLDIER_AreaClear_14: -1283321238
+      BLUESTARSOLDIER_AreaClear_15: -436740777
+      BLUESTARSOLDIER_AreaClear_16: 471998715
+      BLUESTARSOLDIER_AreaClear_17: -1412957291
+      BLUESTARSOLDIER_AreaClear_18: 360122813
+      BLUESTARSOLDIER_AreaClear_19: 2035863523
+      BLUESTARSOLDIER_AreaClear_2: 1946656512
+      BLUESTARSOLDIER_AreaClear_20: -1391823600
+      BLUESTARSOLDIER_AreaClear_21: -350525122
+      BLUESTARSOLDIER_AreaClear_22: 978394891
+      BLUESTARSOLDIER_AreaClear_23: 1741824878
+      BLUESTARSOLDIER_AreaClear_24: -398015906
+      BLUESTARSOLDIER_AreaClear_25: -1694319918
+      BLUESTARSOLDIER_AreaClear_26: 625279017
+      BLUESTARSOLDIER_AreaClear_3: 1180245377
+      BLUESTARSOLDIER_AreaClear_4: 695530354
+      BLUESTARSOLDIER_AreaClear_5: -110294415
+      BLUESTARSOLDIER_AreaClear_6: -500547471
+      BLUESTARSOLDIER_AreaClear_7: -1948610440
+      BLUESTARSOLDIER_AreaClear_8: 749302025
+      BLUESTARSOLDIER_AreaClear_9: -952844995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

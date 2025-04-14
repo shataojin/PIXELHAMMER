@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 032a14d6c2db2bc4a89237121a512f5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4091158822844857477
+    second: Ork boy Rise 0
+  - first:
+      213: -7114044752036291213
+    second: Ork boy Rise 1
+  - first:
+      213: 2358071296344903046
+    second: Ork boy Rise 2
+  - first:
+      213: 4819842367120696221
+    second: Ork boy Rise 3
+  - first:
+      213: 3932727206158875751
+    second: Ork boy Rise 4
+  - first:
+      213: 5648958637908515957
+    second: Ork boy Rise 5
+  - first:
+      213: 5856569903816744057
+    second: Ork boy Rise 6
+  - first:
+      213: -2106882061566122617
+    second: Ork boy Rise 7
+  - first:
+      213: 6583449915699046564
+    second: Ork boy Rise 8
+  - first:
+      213: 5208768931822012818
+    second: Ork boy Rise 9
+  - first:
+      213: -9042838005527508675
+    second: Ork boy Rise 10
+  - first:
+      213: 1895670645034131851
+    second: Ork boy Rise 11
+  - first:
+      213: 6494405893661924146
+    second: Ork boy Rise 12
+  - first:
+      213: 398811875111809069
+    second: Ork boy Rise 13
+  - first:
+      213: -8978201918126081346
+    second: Ork boy Rise 14
+  - first:
+      213: 658428832627924276
+    second: Ork boy Rise 15
+  - first:
+      213: 2835458468788434657
+    second: Ork boy Rise 16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 585
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 585
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 585
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ork boy Rise 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c7f530647b6c830800000000000000
+      internalID: 4091158822844857477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 240
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d15a66df5d54d90800000000000000
+      internalID: -7114044752036291213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 240
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dcea5b95d89b020800000000000000
+      internalID: 2358071296344903046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 240
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d936b95a81583e240800000000000000
+      internalID: 4819842367120696221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 240
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c3d99be8ad39630800000000000000
+      internalID: 3932727206158875751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c5963a3f1256e40800000000000000
+      internalID: 5648958637908515957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 160
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c9d3f4c47b64150800000000000000
+      internalID: 5856569903816744057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 160
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78565b08de9d2c2e0800000000000000
+      internalID: -2106882061566122617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 160
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a821d551dc1d5b50800000000000000
+      internalID: 6583449915699046564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 160
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299875a0fb3494840800000000000000
+      internalID: 5208768931822012818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d398127beb2618280800000000000000
+      internalID: -9042838005527508675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 80
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8125607866ce4a10800000000000000
+      internalID: 1895670645034131851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 80
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b1cee50c3c02a50800000000000000
+      internalID: 6494405893661924146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 80
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d203f34994dd88500800000000000000
+      internalID: 398811875111809069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 80
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba3d5c8ce4076380800000000000000
+      internalID: -8978201918126081346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d99a6e885332900800000000000000
+      internalID: 658428832627924276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Rise 16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6f1875472995720800000000000000
+      internalID: 2835458468788434657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ork boy Rise 0: 4091158822844857477
+      Ork boy Rise 1: -7114044752036291213
+      Ork boy Rise 10: -9042838005527508675
+      Ork boy Rise 11: 1895670645034131851
+      Ork boy Rise 12: 6494405893661924146
+      Ork boy Rise 13: 398811875111809069
+      Ork boy Rise 14: -8978201918126081346
+      Ork boy Rise 15: 658428832627924276
+      Ork boy Rise 16: 2835458468788434657
+      Ork boy Rise 2: 2358071296344903046
+      Ork boy Rise 3: 4819842367120696221
+      Ork boy Rise 4: 3932727206158875751
+      Ork boy Rise 5: 5648958637908515957
+      Ork boy Rise 6: 5856569903816744057
+      Ork boy Rise 7: -2106882061566122617
+      Ork boy Rise 8: 6583449915699046564
+      Ork boy Rise 9: 5208768931822012818
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

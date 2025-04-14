@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 10a92bc45a7e1394bb5ccf134b451906
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3229126840296649379
+    second: Ork boy Attack DiagonalDown 0
+  - first:
+      213: 1554910739414113736
+    second: Ork boy Attack DiagonalDown 1
+  - first:
+      213: 4277739182854394365
+    second: Ork boy Attack DiagonalDown 2
+  - first:
+      213: 809414870564149435
+    second: Ork boy Attack DiagonalDown 3
+  - first:
+      213: -826249245460119178
+    second: Ork boy Attack DiagonalDown 4
+  - first:
+      213: 6822564667513323189
+    second: Ork boy Attack DiagonalDown 5
+  - first:
+      213: 6137298843828621500
+    second: Ork boy Attack DiagonalDown 6
+  - first:
+      213: 2532565616839878958
+    second: Ork boy Attack DiagonalDown 7
+  - first:
+      213: -2457498694932022503
+    second: Ork boy Attack DiagonalDown 8
+  - first:
+      213: -3367460037353396547
+    second: Ork boy Attack DiagonalDown 9
+  - first:
+      213: 1198142888328644556
+    second: Ork boy Attack DiagonalDown 10
+  - first:
+      213: -3122045355452512766
+    second: Ork boy Attack DiagonalDown 11
+  - first:
+      213: -6777279276156017056
+    second: Ork boy Attack DiagonalDown 12
+  - first:
+      213: -1080534996666921142
+    second: Ork boy Attack DiagonalDown 13
+  - first:
+      213: -645034790770321154
+    second: Ork boy Attack DiagonalDown 14
+  - first:
+      213: 5970870493490630710
+    second: Ork boy Attack DiagonalDown 15
+  - first:
+      213: 6857704620674174841
+    second: Ork boy Attack DiagonalDown 16
+  - first:
+      213: 1952372441110064296
+    second: Ork boy Attack DiagonalDown 17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 480
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 480
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 480
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d40755f36df23d0800000000000000
+      internalID: -3229126840296649379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 228
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdd7384417249510800000000000000
+      internalID: 1554910739414113736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 228
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df15ec35f159d5b30800000000000000
+      internalID: 4277739182854394365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 228
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb815eb498e9b3b00800000000000000
+      internalID: 809414870564149435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 228
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6714a6c50b29884f0800000000000000
+      internalID: -826249245460119178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be3348ea6e9eae50800000000000000
+      internalID: 6822564667513323189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 152
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb012da18c01c2550800000000000000
+      internalID: 6137298843828621500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 152
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29eb1aa20b752320800000000000000
+      internalID: 2532565616839878958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 152
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b379415f535edd0800000000000000
+      internalID: -2457498694932022503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 152
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db62a3600f06441d0800000000000000
+      internalID: -3367460037353396547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc74df0eb98a0a010800000000000000
+      internalID: 1198142888328644556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 76
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206489f5a444ca4d0800000000000000
+      internalID: -3122045355452512766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 76
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066aa19e76442f1a0800000000000000
+      internalID: -6777279276156017056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 76
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f4a4c352b2101f0800000000000000
+      internalID: -1080534996666921142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 76
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8dd5c76406c07f0800000000000000
+      internalID: -645034790770321154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630de5c241bccd250800000000000000
+      internalID: 5970870493490630710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fc6d1d4067b2f50800000000000000
+      internalID: 6857704620674174841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Attack DiagonalDown 17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 96
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aca0ad1468381b10800000000000000
+      internalID: 1952372441110064296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ork boy Attack DiagonalDown 0: -3229126840296649379
+      Ork boy Attack DiagonalDown 1: 1554910739414113736
+      Ork boy Attack DiagonalDown 10: 1198142888328644556
+      Ork boy Attack DiagonalDown 11: -3122045355452512766
+      Ork boy Attack DiagonalDown 12: -6777279276156017056
+      Ork boy Attack DiagonalDown 13: -1080534996666921142
+      Ork boy Attack DiagonalDown 14: -645034790770321154
+      Ork boy Attack DiagonalDown 15: 5970870493490630710
+      Ork boy Attack DiagonalDown 16: 6857704620674174841
+      Ork boy Attack DiagonalDown 17: 1952372441110064296
+      Ork boy Attack DiagonalDown 2: 4277739182854394365
+      Ork boy Attack DiagonalDown 3: 809414870564149435
+      Ork boy Attack DiagonalDown 4: -826249245460119178
+      Ork boy Attack DiagonalDown 5: 6822564667513323189
+      Ork boy Attack DiagonalDown 6: 6137298843828621500
+      Ork boy Attack DiagonalDown 7: 2532565616839878958
+      Ork boy Attack DiagonalDown 8: -2457498694932022503
+      Ork boy Attack DiagonalDown 9: -3367460037353396547
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

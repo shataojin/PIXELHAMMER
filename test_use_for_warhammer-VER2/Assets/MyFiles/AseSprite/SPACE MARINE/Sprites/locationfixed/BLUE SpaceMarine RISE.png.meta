@@ -1,0 +1,645 @@
+fileFormatVersion: 2
+guid: 887674eaf5a75de4bb901a66b331b7f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1882077893985197060
+    second: BLUE SpaceMarine RISE 0
+  - first:
+      213: -7912598580917525422
+    second: BLUE SpaceMarine RISE 1
+  - first:
+      213: -6114195935526628477
+    second: BLUE SpaceMarine RISE 2
+  - first:
+      213: -6611399439433694360
+    second: BLUE SpaceMarine RISE 3
+  - first:
+      213: -825218232014938936
+    second: BLUE SpaceMarine RISE 4
+  - first:
+      213: -9115595727373186399
+    second: BLUE SpaceMarine RISE 5
+  - first:
+      213: -6267026948963485790
+    second: BLUE SpaceMarine RISE 6
+  - first:
+      213: 6889244093602250039
+    second: BLUE SpaceMarine RISE 7
+  - first:
+      213: -4089476266225249493
+    second: BLUE SpaceMarine RISE 8
+  - first:
+      213: -1841103202661429070
+    second: BLUE SpaceMarine RISE 9
+  - first:
+      213: 1287256115342270792
+    second: BLUE SpaceMarine RISE 10
+  - first:
+      213: -8527900432112250542
+    second: BLUE SpaceMarine RISE 11
+  - first:
+      213: -2135974963808204610
+    second: BLUE SpaceMarine RISE 12
+  - first:
+      213: 232568964029430561
+    second: BLUE SpaceMarine RISE 13
+  - first:
+      213: 4677909043496521517
+    second: BLUE SpaceMarine RISE 14
+  - first:
+      213: -8338457337860071088
+    second: BLUE SpaceMarine RISE 15
+  - first:
+      213: -7044633373826660360
+    second: BLUE SpaceMarine RISE 16
+  - first:
+      213: -5718682653639394422
+    second: BLUE SpaceMarine RISE 17
+  - first:
+      213: 3765735844910170306
+    second: BLUE SpaceMarine RISE 18
+  - first:
+      213: 9008983530663991957
+    second: BLUE SpaceMarine RISE 19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 395
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 395
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 395
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 395
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c5a967fdb7e1a10800000000000000
+      internalID: 1882077893985197060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE 1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 210
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254a62e638dc03290800000000000000
+      internalID: -7912598580917525422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE 2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 210
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3835cc7e033062ba0800000000000000
+      internalID: -6114195935526628477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE 3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 210
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86386501d379f34a0800000000000000
+      internalID: -6611399439433694360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE 4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 210
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccd292e36c3c84f0800000000000000
+      internalID: -825218232014938936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE 5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa4ad18bf5ee7180800000000000000
+      internalID: -9115595727373186399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE 6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 140
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a73b3da13c0709a0800000000000000
+      internalID: -6267026948963485790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE 7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 140
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dbe1a90038b9f50800000000000000
+      internalID: 6889244093602250039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE 8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 140
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23d04ab0034f37c0800000000000000
+      internalID: -4089476266225249493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE 9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 140
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0188a44661376e0800000000000000
+      internalID: -1841103202661429070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE 15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051e912fa39d74c80800000000000000
+      internalID: -8338457337860071088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE 16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 70
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f74334454f6c3e90800000000000000
+      internalID: -7044633373826660360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE 17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 70
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bb2a6ec6823a0b0800000000000000
+      internalID: -5718682653639394422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE 18
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 70
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c083d99cc4924430800000000000000
+      internalID: 3765735844910170306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE 19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 70
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a529c1ac6560d70800000000000000
+      internalID: 9008983530663991957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dcb1688e96c5942ba3f4e9f4b8e9de
+      internalID: 248410836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86fe628a6c023944ada386700882232
+      internalID: -898618478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d32b350caaab684698e190b86f220d8
+      internalID: -90160700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488ff2669145d1a4f9f660f7eb9c1b9a
+      internalID: -970126496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine RISE_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c02df6e4fc312b4abb49266798070a3
+      internalID: -882870244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BLUE SpaceMarine RISE 0: 1882077893985197060
+      BLUE SpaceMarine RISE 1: -7912598580917525422
+      BLUE SpaceMarine RISE 10: 1287256115342270792
+      BLUE SpaceMarine RISE 11: -8527900432112250542
+      BLUE SpaceMarine RISE 12: -2135974963808204610
+      BLUE SpaceMarine RISE 13: 232568964029430561
+      BLUE SpaceMarine RISE 14: 4677909043496521517
+      BLUE SpaceMarine RISE 15: -8338457337860071088
+      BLUE SpaceMarine RISE 16: -7044633373826660360
+      BLUE SpaceMarine RISE 17: -5718682653639394422
+      BLUE SpaceMarine RISE 18: 3765735844910170306
+      BLUE SpaceMarine RISE 19: 9008983530663991957
+      BLUE SpaceMarine RISE 2: -6114195935526628477
+      BLUE SpaceMarine RISE 3: -6611399439433694360
+      BLUE SpaceMarine RISE 4: -825218232014938936
+      BLUE SpaceMarine RISE 5: -9115595727373186399
+      BLUE SpaceMarine RISE 6: -6267026948963485790
+      BLUE SpaceMarine RISE 7: 6889244093602250039
+      BLUE SpaceMarine RISE 8: -4089476266225249493
+      BLUE SpaceMarine RISE 9: -1841103202661429070
+      BLUE SpaceMarine RISE_0: 248410836
+      BLUE SpaceMarine RISE_1: -898618478
+      BLUE SpaceMarine RISE_2: -90160700
+      BLUE SpaceMarine RISE_3: -970126496
+      BLUE SpaceMarine RISE_4: -882870244
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

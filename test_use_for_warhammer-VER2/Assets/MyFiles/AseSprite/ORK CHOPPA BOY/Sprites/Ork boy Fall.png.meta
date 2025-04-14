@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 9d9d3efb28ca11648b14f3a9b61cfe9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -554347559614805693
+    second: Ork boy Fall 0
+  - first:
+      213: 8949013927305744607
+    second: Ork boy Fall 1
+  - first:
+      213: -5267531980138417154
+    second: Ork boy Fall 2
+  - first:
+      213: 4245292429379615960
+    second: Ork boy Fall 3
+  - first:
+      213: -4478268861065509253
+    second: Ork boy Fall 4
+  - first:
+      213: -835210943803899516
+    second: Ork boy Fall 5
+  - first:
+      213: 1914224519440996998
+    second: Ork boy Fall 6
+  - first:
+      213: 9201816684621575355
+    second: Ork boy Fall 7
+  - first:
+      213: -2381019063702371563
+    second: Ork boy Fall 8
+  - first:
+      213: 8745475211918756091
+    second: Ork boy Fall 9
+  - first:
+      213: 3741458231624022688
+    second: Ork boy Fall 10
+  - first:
+      213: -513774524545317760
+    second: Ork boy Fall 11
+  - first:
+      213: 8692316277283390950
+    second: Ork boy Fall 12
+  - first:
+      213: 1661849622200684143
+    second: Ork boy Fall 13
+  - first:
+      213: 3878185868061064547
+    second: Ork boy Fall 14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 468
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 468
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 468
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ork boy Fall 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3490e03e4df8e48f0800000000000000
+      internalID: -554347559614805693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Fall 1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 240
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd01513c0c8413c70800000000000000
+      internalID: 8949013927305744607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Fall 2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 240
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3f6d89297f5e6b0800000000000000
+      internalID: -5267531980138417154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Fall 3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 240
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcb3d4d8fe4aea30800000000000000
+      internalID: 4245292429379615960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Fall 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b764f7f923ef9d1c0800000000000000
+      internalID: -4478268861065509253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Fall 5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 160
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481cc0e521cb864f0800000000000000
+      internalID: -835210943803899516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Fall 6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 160
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a9f95fe01b09a10800000000000000
+      internalID: 1914224519440996998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Fall 7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 160
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4b127758b63bf70800000000000000
+      internalID: 9201816684621575355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Fall 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5134698d6cbe4fed0800000000000000
+      internalID: -2381019063702371563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Fall 9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 80
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8c666ae5b2e5970800000000000000
+      internalID: 8745475211918756091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Fall 10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 80
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa39e540745ce330800000000000000
+      internalID: 3741458231624022688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Fall 11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 80
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084c4d1cac4bed8f0800000000000000
+      internalID: -513774524545317760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Fall 12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e582dea99f41a870800000000000000
+      internalID: 8692316277283390950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Fall 13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e83613d63101710800000000000000
+      internalID: 1661849622200684143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ork boy Fall 14
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 117
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d38bedf7512d530800000000000000
+      internalID: 3878185868061064547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ork boy Fall 0: -554347559614805693
+      Ork boy Fall 1: 8949013927305744607
+      Ork boy Fall 10: 3741458231624022688
+      Ork boy Fall 11: -513774524545317760
+      Ork boy Fall 12: 8692316277283390950
+      Ork boy Fall 13: 1661849622200684143
+      Ork boy Fall 14: 3878185868061064547
+      Ork boy Fall 2: -5267531980138417154
+      Ork boy Fall 3: 4245292429379615960
+      Ork boy Fall 4: -4478268861065509253
+      Ork boy Fall 5: -835210943803899516
+      Ork boy Fall 6: 1914224519440996998
+      Ork boy Fall 7: 9201816684621575355
+      Ork boy Fall 8: -2381019063702371563
+      Ork boy Fall 9: 8745475211918756091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

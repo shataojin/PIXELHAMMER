@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 97436738123b0fb4e9ca5290a2464643
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1020794984122013586
+    second: BLUE SpaceMarine KNOCKDOWN 0
+  - first:
+      213: 3899564022370093843
+    second: BLUE SpaceMarine KNOCKDOWN 1
+  - first:
+      213: -6859166845459955795
+    second: BLUE SpaceMarine KNOCKDOWN 2
+  - first:
+      213: -8161550438109628817
+    second: BLUE SpaceMarine KNOCKDOWN 3
+  - first:
+      213: -1895663652903931713
+    second: BLUE SpaceMarine KNOCKDOWN 4
+  - first:
+      213: 5250303986260744614
+    second: BLUE SpaceMarine KNOCKDOWN 5
+  - first:
+      213: -2375335085962713472
+    second: BLUE SpaceMarine KNOCKDOWN 6
+  - first:
+      213: -7488444964987519746
+    second: BLUE SpaceMarine KNOCKDOWN 7
+  - first:
+      213: 4227445865784718995
+    second: BLUE SpaceMarine KNOCKDOWN 8
+  - first:
+      213: -5549155014097620657
+    second: BLUE SpaceMarine KNOCKDOWN 9
+  - first:
+      213: -6095492788118117867
+    second: BLUE SpaceMarine KNOCKDOWN 10
+  - first:
+      213: 7716091241332292039
+    second: BLUE SpaceMarine KNOCKDOWN 11
+  - first:
+      213: -5783608791162007041
+    second: BLUE SpaceMarine KNOCKDOWN 12
+  - first:
+      213: -3498613385381076279
+    second: BLUE SpaceMarine KNOCKDOWN 13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 392
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 392
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 392
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 392
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BLUE SpaceMarine KNOCKDOWN_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.55, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bea670f21ed17a49a47c586d48cffbc
+      internalID: -157532539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine KNOCKDOWN_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 210
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.55, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cf7d01e5fe21146b5e887d19e12167
+      internalID: 1866140028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine KNOCKDOWN_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 210
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.55, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c501229d3dd184fb76b48539c1c336
+      internalID: 104702885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine KNOCKDOWN_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 210
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.55, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9091e0a296ebca247bf89446887f76e3
+      internalID: -455348073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine KNOCKDOWN_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.55, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fff830b30f4de47b4556fc10a80d1e
+      internalID: -1429593641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine KNOCKDOWN_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 140
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.55, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa872da04543134a86393d13438300b
+      internalID: -427480711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine KNOCKDOWN_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 140
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.55, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b49062afe9263944bb46a2e04e2303e
+      internalID: -127953760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine KNOCKDOWN_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 140
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.55, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d642916c0aac445af24e4f4f0522e4
+      internalID: -916644835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine KNOCKDOWN_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.55, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26059dcc5797e8c46a2cfbe6061f5be7
+      internalID: 1183938753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine KNOCKDOWN_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 70
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.55, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c440b42e79c5bb4ab0400177f1be974
+      internalID: 1967976872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine KNOCKDOWN_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 70
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.55, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad01c26a13cea240b9ab66103e7caf5
+      internalID: 1056781246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine KNOCKDOWN_11
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 70
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.55, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f56ef32f484aaf4b9045a9f413e5383
+      internalID: -330908333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BLUE SpaceMarine KNOCKDOWN_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.55, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0565425dce86664abd5f8d3a7b3ae18
+      internalID: -1469247846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BLUE SpaceMarine KNOCKDOWN_0: -157532539
+      BLUE SpaceMarine KNOCKDOWN_1: 1866140028
+      BLUE SpaceMarine KNOCKDOWN_10: 1056781246
+      BLUE SpaceMarine KNOCKDOWN_11: -330908333
+      BLUE SpaceMarine KNOCKDOWN_12: -1469247846
+      BLUE SpaceMarine KNOCKDOWN_2: 104702885
+      BLUE SpaceMarine KNOCKDOWN_3: -455348073
+      BLUE SpaceMarine KNOCKDOWN_4: -1429593641
+      BLUE SpaceMarine KNOCKDOWN_5: -427480711
+      BLUE SpaceMarine KNOCKDOWN_6: -127953760
+      BLUE SpaceMarine KNOCKDOWN_7: -916644835
+      BLUE SpaceMarine KNOCKDOWN_8: 1183938753
+      BLUE SpaceMarine KNOCKDOWN_9: 1967976872
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
